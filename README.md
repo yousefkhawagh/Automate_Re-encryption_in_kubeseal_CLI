@@ -556,7 +556,6 @@ kubeseal  reencrypt  --namespace=all  --controller-namespace=kube-system  --log-
 
 ### 🔎 Internal Code Design and Integration
 
-  
 
 #### 🧩 New CLI Command
 
